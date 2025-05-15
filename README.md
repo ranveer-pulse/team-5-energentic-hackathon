@@ -1,4 +1,4 @@
-# team--5-energentic-hackathon
+# team-5-energentic-hackathon
 
 # ⚡ Smart Energy Agent: Consumer/Prosumer Assistant
 *Empowering households to reduce energy costs & stabilize grids through AI-driven DER orchestration*
@@ -6,7 +6,7 @@
 ---
 
 ## 👥 Team Members
-- **Ranveer Shah** - 
+- **Ranveer Shah**
 
 ---
 
